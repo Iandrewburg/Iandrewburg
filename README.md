@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Iandrewburg
+- 👀 I’m interested in web scraping, python coding, data analysis, and LLMs! I also find ornithological research quite interesting and enjoyable!
+- 🌱 I’m currently learning web scraping, python coding, data visualization in python, data analysis in python, and much more. 
+- 💞️ I’m looking to collaborate on data analysis projects and research projects. 
+- 📫 How to reach me: iandrewburg@gmail.com
